@@ -1,0 +1,32 @@
+/* 
+***********
+Common
+*********** 
+*/
+
+*{
+    margin: 0;
+}
+
+/* 
+***********
+Common
+********** 
+*/
+
+/* intestazione e logo */
+header {
+    background-image: url(../img/pattern.png);
+    background-color: rgb(78, 160, 255);
+    background-size: 400px;
+    height: 100px;
+    background-position: top right;
+    
+}
+
+img{
+    height: 50px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+/* intestazione e logo */
